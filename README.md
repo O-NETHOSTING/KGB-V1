@@ -1,4 +1,10 @@
 # KGB-V1
+##ADMIN
+User: admin
+Pw: admin
+##Demo
+User: demo 
+PW: demo
 #
 ![alt text](https://github.com/O-NETHOSTING/KGB-V1/blob/main/view/image-%20(4).png)
 ![alt text](https://github.com/O-NETHOSTING/KGB-V1/blob/main/view/image-%20(1).png)
